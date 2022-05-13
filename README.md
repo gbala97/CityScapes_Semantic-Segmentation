@@ -1,1 +1,2 @@
-Git hub Repository for City Scapes Semantic Segmentation
+Semantic Segmentation using modified U-Net for Cityscapes dataset
+
